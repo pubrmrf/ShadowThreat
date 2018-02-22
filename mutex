@@ -1,0 +1,83 @@
+_!SHMSFTHISTORY!_
+RasPbFile
+ZonesCacheCounterMutex
+ZonesLockedCacheCounterMutex
+__DDrawExclMode__
+__DDrawCheckExclMode__
+{A3BD3259-3E4F-428a-84C8-F0463A9D3EB5}
+{C9A34C77-4D69-45EC-A07D-83242376045D}EDB4FA23-53B8-4AFA-8C5D-99752CCA7094
+RefreshRA_Mutex_Lib
+Dmrc_mtx_409a9db1-a045-4296-8d2c-9d71016c846b
+Instance1:  ESENT Performance Data Schema Version 255
+_SHuassist.mtx
+ALTTAB_RUNNING_MUTEX
+SessionImmersiveColorMutex
+CicLoadWinStaWinSta0
+TM.750ce7b0-e5fd-454f-9fad-2f66513dfa1b
+{C9A34C77-4D69-45EC-A07D-83242376045D}EDB4FA23-53B8-4AFA-8C5D-99752CCA7094
+{C9A34C77-4D69-45EC-A07D-83242376045D}EDB4FA23-53B8-4AFA-8C5D-99752CCA7094
+PerfDisk_Perf_Library_Lock_PID_c98
+TapiSrv_Perf_Library_Lock_PID_c98
+.NET CLR Data_Perf_Library_Lock_PID_c98
+MSSQLServerOLAPService_Perf_Library_Lock_PID_c98
+W3SVC_Perf_Library_Lock_PID_c98
+C::Users:%USER%:AppData:Local:Microsoft:Windows:Explorer:thumbcache_<integer/string _value>.db!dfMaintainer
+C::Users:%USER%:AppData:Local:Microsoft:Windows:Explorer:iconcache_<integer/string_value>.db!dfMaintainer
+C::Users:%USER%:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterMutex
+C::Users:%USER%:AppData:Local:Microsoft:Windows:Explorer:iconcache_idx.db!rwWriterMutex
+C::Users:%USER%:AppData:Local:Microsoft:Windows:Explorer:iconcache_idx.db!IconCacheInit
+BcdSyncMutant
+{A3BD3259-3E4F-428a-84C8-F0463A9D3EB5}
+.NETFramework_Perf_Library_Lock_PID_c3c
+.NET CLR Data_Perf_Library_Lock_PID_c3c
+.NET Memory Cache 4.0_Perf_Library_Lock_PID_c3c
+.NET Data Provider for Oracle_Perf_Library_Lock_PID_c3c
+.NET CLR Networking_Perf_Library_Lock_PID_c3c
+.NET CLR Networking 4.0.0.0_Perf_Library_Lock_PID_c3c
+.NET Data Provider for SqlServer_Perf_Library_Lock_PID_c3c
+Lsa_Perf_Library_Lock_PID_c3c
+FileReplicaSet_Perf_Library_Lock_PID_c3c
+MSDTC_Perf_Library_Lock_PID_c3c
+PerfOS_Perf_Library_Lock_PID_c3c
+NTDS_Perf_Library_Lock_PID_c3c
+UGTHRSVC_Perf_Library_Lock_PID_c3c
+FileReplicaConn_Perf_Library_Lock_PID_c3c
+UGatherer_Perf_Library_Lock_PID_c3c
+ESENT_Perf_Library_Lock_PID_c3c
+PerfDisk_Perf_Library_Lock_PID_c3c
+usbhub_Perf_Library_Lock_PID_c3c
+UGTHRSVC_Perf_Library_Lock_PID_c3c
+Spooler_Perf_Library_Lock_PID_c3c
+MSDTC Bridge 4.0.0.0_Perf_Library_Lock_PID_c3c
+MSSCNTRS_Perf_Library_Lock_PID_c3c
+Windows Workflow Foundation 4.0.0.0_Perf_Library_Lock_PID_c3c
+WmiApRpl_Perf_Library_Lock_PID_c3c
+WSearchIdxPi_Perf_Library_Lock_PID_c3c
+TermService_Perf_Library_Lock_PID_c3c
+Tcpip_Perf_Library_Lock_PID_c3c
+TapiSrv_Perf_Library_Lock_PID_c3c
+RemoteAccess_Perf_Library_Lock_PID_c3c
+PerfProc_Perf_Library_Lock_PID_c3c
+PerfNet_Perf_Library_Lock_PID_c3c
+DNS_Perf_Library_Lock_PID_c3c
+DirectoryServices_Perf_Library_Lock_PID_c3c
+BITS_Perf_Library_Lock_PID_c3c
+ADWS_Perf_Library_Lock_PID_c3c
+Instance0:  ESENT Performance Data Schema Version 271
+Instance:  ESENT Performance Data Schema Version 271
+Instance1:  ESENT Performance Data Schema Version 271
+Instance3:  ESENT Performance Data Schema Version 271
+Instance4:  ESENT Performance Data Schema Version 271
+MSCTF.CtfMonitorInstMutexDefault3
+MSCTF.CtfMonitorInstMutexDefault4
+MSCTF.CtfMonitorInstMutexDefault5
+MSCTF.CtfMonitorInstMutexDefault6
+InputServiceHostMutex
+MSCTF.CtfServerMutexDefault3
+MSCTF.CtfServerMutexDefault4
+MSCTF.CtfServerMutexDefault5
+MSCTF.CtfServerMutexDefault6
+MSCTF.Asm.MutexDefault3
+MSCTF.Asm.MutexDefault4
+MSCTF.Asm.MutexDefault5
+MSCTF.Asm.MutexDefault6
